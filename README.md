@@ -4,25 +4,25 @@ This is the Spotify Clone, Fully functional ..
 # How To Create A React App
 In Your Terminal 👇
 
-npx create-react-app (Your Project Name)
-cd (Your Project)
-npm start
+1. npx create-react-app (Your Project Name)
+2. cd (Your Project)
+3. npm start
 
 # Commands to type in your terminal
-npm start
-npm i @material-ui/core
-npm i @material-ui/icons
-npm i firebase-tools
-npm i spotify-web-api-js
-firebase init
-npm run build
-firebase deploy
+1. npm start
+2. npm i @material-ui/core
+3. npm i @material-ui/icons
+4. npm i firebase-tools
+5. npm i spotify-web-api-js
+6. firebase init
+7. npm run build
+8. firebase deploy
 
 # How to host a webapp using firebase
-npm i firebase-tools
-firebase init
-npm run build
-firebase deploy
+1. npm i firebase-tools
+2. firebase init
+3. npm run build
+4. firebase deploy
 
 # How to get a spotify api key
 1. Go to https://developer.spotify.com/
